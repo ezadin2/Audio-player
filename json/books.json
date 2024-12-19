@@ -1,0 +1,44 @@
+[
+  {
+    "rating": "4.5",
+    "title": "Tum Hi Ho by Mithoon",
+    "text": "Martin Hyatt",
+    "img": "images/book.png",
+    "audio": "https://www.dropbox.com/scl/fi/j25mu281wma4je5sj8eh5/Tum_Hi_Ho_Song_Aashiqui_2_Music_By_Mithoon_Aditya_Roy_Kapur-_Shraddha.mp3?rlkey=8hqgcq5c2j4a9t7az94t1umdw&st=zkp90uk1&dl=1"
+  },
+  {
+    "rating": "5",
+    "title": "Ghungroo by Arijit Singh",
+    "text": "Hrithik Roshan",
+    "img": "images/book1.png",
+    "audio": "https://www.dropbox.com/scl/fi/2ax12hgqf80gjnxgz42qs/Ghungroo_Song_WAR_Hrithik_Roshan-_Vaani_Kapoor_Arijit_Singh-_Shilpa.mp3?rlkey=x1l039ok8ejaiqqjjxnovzg4z&st=r5cal3x9&dl=1"
+  },
+  {
+    "rating": "3.0",
+    "title": "Koi Mil Gaya",
+    "text": "Hrithik Roshan",
+    "img": "images/book2.png",
+    "audio": "https://www.dropbox.com/scl/fi/52c7x8ndmp6yg402hiys6/Koi_Mil_Gaya_Title_Track_Hrithik_Roshan-_Preity_Zinta_Udit_Narayan-Copy.mp3?rlkey=qhzonki1i3j8dnvdwuehtkdcx&st=n946zv64&dl=1"
+  },
+  {
+    "rating": "4.0",
+    "title": "Koi Mil Gaya by Udit Narayan",
+    "text": "Sharukh Khan",
+    "img": "images/book1.png",
+    "audio": "https://www.dropbox.com/scl/fi/52c7x8ndmp6yg402hiys6/Koi_Mil_Gaya_Title_Track_Hrithik_Roshan-_Preity_Zinta_Udit_Narayan-Copy.mp3?rlkey=qhzonki1i3j8dnvdwuehtkdcx&st=1alamvdn&dl=1"
+  },
+  {
+    "rating": "3.5",
+    "title": "Ek Pal Ka Jeena by Hrithik",
+    "text": "Martin Hyatt",
+    "img": "images/book.png",
+    "audio": "https://www.dropbox.com/scl/fi/mc8pohrte3mgzu7mk3nje/Ek_Pal_Ka_Jeena_Phir_4K_Video_Song_Kaho_Naa_Pyaar_Hai_Hrithik_Roshan.mp3?rlkey=uoz6ivj5cji4zf7m1bjtir7hu&st=24cjfan6&dl=1"
+  },
+  {
+    "rating": "3.5",
+    "title": "Kal Ho Naa Ho by Shaan",
+    "text": "Martin Hyatt",
+    "img": "images/book.png",
+    "audio": "https://www.dropbox.com/scl/fi/csf8xktanp6jhm7s99nq1/Kal_Ho_Naa_Ho_Full_Video_Title_Track_Shah_Rukh_Khan-Saif_Ali-Preity.mp3?rlkey=176avyfs503ohe2e3434hm8tp&st=dc6lv9id&dl=1"
+  }
+]

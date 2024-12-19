@@ -1,0 +1,23 @@
+[
+  {
+    "rating": "4.5",
+    "title": "The Water Cure",
+    "text": "Martin Hyatt",
+    "img": "images/pop.png",
+    "audio": "Voices.mp3"
+  },
+  {
+    "rating": "4.5",
+    "title": "The Water Cure",
+    "text": "Martin Hyatt",
+    "img": "images/pop1.png",
+    "audio": "Voices.mp3"
+  },
+  {
+    "rating": "4.5",
+    "title": "The Water Cure",
+    "text": "Martin Hyatt",
+    "img": "images/pop3.png",
+    "audio": "Voices.mp3"
+  }
+]
